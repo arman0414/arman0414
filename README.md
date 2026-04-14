@@ -45,28 +45,31 @@ A productivity app focused on flexible habit building
 * Helps users stay consistent even on low-motivation days
 * Focus on execution over perfection
 * Designed as a scalable product
-  👉 https://github.com/arman0414
+  👉 https://www.adapthabits.com/
 
 ---
 
-### 🔹 Data Analytics & Dashboards
+### 🔹 SQLite Database Management
 
 Built production dashboards across global teams
 
-* Reduced inconsistencies by 65%
-* Automated workflows using SQL, Power Query & DAX
-* Delivered real-time insights for decision-making
-  👉 https://github.com/arman0414
+* Built a modular Python database system with separate DDL/DML engines, CSV-backed CRUD, and multi-table joins via a unified CLI.
+* Engineered SQL parsing with multi-line queries, file-backed persistence, and a SQLite mode for aggregate operations.
+* Added an automated test runner and reproducible SQL fixtures to validate CRUD and join behavior end-to-end, keeping regressions visible as the parsers and engines evolved.
+
+  👉 https://github.com/arman0414/SQLite-Database-Management-in-Python
 
 ---
 
-### 🔹 Backend & API Systems
+### 🔹 Real-Time Face Recognition System 
 
 Developed backend services using Flask & Python
 
-* REST APIs for real-time data handling
-* Optimized performance and data flow
-  👉 https://github.com/arman0414
+* Designed a modular face-recognition system using Python and OpenCV, separating data collection, recognition, and filtering for smoother scaling with a real-time 30 FPS interface.
+* Built a real-time data pipeline with automated processing, validation, and logging for stable system performance achieving approximately 85% accuracy on face embeddings.
+* Added reliable error checks, validation, and logging to maintain system stability across platforms, improving recognition accuracy by 40% and reducing data retrieval time by 55%.
+
+  👉 https://github.com/arman0414/Face_Recognition
 
 ---
 
@@ -88,7 +91,7 @@ Developed backend services using Flask & Python
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/arman0414
-* LinkedIn: [https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/armanmalik/)
+* LinkedIn: (https://www.linkedin.com/in/armanmalik/)
 * Email: [armanmalikar@gmail.com](mailto:armanmalikar@gmail.com)
 
 ---
