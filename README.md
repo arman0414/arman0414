@@ -1,10 +1,6 @@
-## Hi there 👋
-
-<!--
-**arman0414/arman0414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Hey, I’m Arman Malik 👋
 
-Backend Engineer | Building real-world systems with data & scalability
+Backend Engineer building real-world systems with data, scalability & impact
 
 🚀 Currently building:
 
@@ -13,13 +9,13 @@ Backend Engineer | Building real-world systems with data & scalability
 
 ---
 
-##💡 What I Do
+## 💡 What I Do
 
-I design and build:
+I build systems that actually get used:
 
 * Real-time backend systems
 * Data pipelines & analytics dashboards
-* Scalable APIs for production use
+* Scalable APIs for production
 
 ---
 
@@ -33,10 +29,10 @@ Python • SQL • AWS • Flask • FastAPI • Power BI • Docker • React
 
 ### 🔹 IoT Monitoring System
 
-Built a real-time fuel monitoring system using Raspberry Pi + AWS
+Real-time fuel monitoring system using Raspberry Pi + AWS
 
-* <5s alert latency using event-driven architecture
-* Integrated AWS SNS + Lambda for notifications
+* <5s alert latency with event-driven architecture
+* AWS SNS + Lambda for instant notifications
 * Reliable data pipeline with validation & retry logic
 
 ---
@@ -47,7 +43,7 @@ A productivity app focused on flexible habit building
 
 * Helps users stay consistent even on low-motivation days
 * Focus on execution over perfection
-* Designed as a scalable product with real user value
+* Built as a scalable product with real-world use
 
 ---
 
@@ -55,16 +51,16 @@ A productivity app focused on flexible habit building
 
 Designed 6+ production dashboards across 10+ global sites
 
-* Reduced cross-site inconsistencies by 65%
+* Reduced inconsistencies by 65%
 * Automated reporting using SQL, Power Query & DAX
-* Improved decision-making with real-time insights
+* Enabled better decision-making with real-time insights
 
 ---
 
 ## 📊 Impact
 
 * Built systems handling thousands of records daily
-* Reduced manual processes by up to 70%
+* Reduced manual work by up to 70%
 * Delivered production-grade solutions used across teams
 
 ---
@@ -78,11 +74,9 @@ Designed 6+ production dashboards across 10+ global sites
 
 ## 📫 Let’s Connect
 
-* LinkedIn: [Add your link]
+* LinkedIn: https://www.linkedin.com/in/your-link
 * Email: [armanmalikar@gmail.com](mailto:armanmalikar@gmail.com)
 
 ---
 
-⭐ Always open to collaborating on interesting backend or data-driven projects
-
-
+⭐ Always open to collaborating on backend or data-driven projects
