@@ -1,99 +1,108 @@
 # Hey, I’m Arman Malik 👋
 
-Backend Engineer building real-time systems with data, scalability & impact
+Data Analytics & Business Intelligence professional building practical solutions with **Python, SQL, Power BI, and automation**.
 
-🚀 Currently building:
-
-* IoT Monitoring System (AWS + Raspberry Pi + Python)
-* Adapt Habits (behavior-based productivity app)
+I enjoy turning raw and multi-source data into reliable dashboards, analytics, and data workflows that help teams make better decisions.
 
 ---
 
 ## 💡 What I Do
 
-I build systems that actually get used in real-world scenarios:
-
-* Real-time backend systems
-* Data pipelines & analytics dashboards
-* Scalable APIs for production
+* Build analytics dashboards and KPI reporting solutions
+* Develop Python and SQL data pipelines
+* Automate reporting and data-processing workflows
+* Create data-quality and validation frameworks
+* Build backend services for data-driven applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-Python • SQL • AWS • Flask • FastAPI • Power BI • Docker • React
+**Programming & Data:** Python • SQL • pandas • NumPy • Jupyter Notebook  
+**Analytics & BI:** Power BI • DAX • Power Query • Looker Studio  
+**Databases:** PostgreSQL • SQLite • Microsoft SQL Server  
+**Tools:** Excel • Google Sheets • Flask • Docker • AWS • GitHub Actions
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 IoT Monitoring System
+### 🔹 Personalized Learning Analytics System
 
-Real-time fuel monitoring system using Raspberry Pi + AWS
+Analytics application for tracking student and class performance using Python, Flask, SQL, and Chart.js.
 
-* <5s alert latency with event-driven architecture
-* AWS SNS + Lambda for notifications
-* Reliable data pipeline with validation & retry logic
-  👉 https://github.com/arman0414
+* Designed a relational data model connecting students, courses, and weekly assessment records
+* Built analytics for subject averages, performance trends, and changes across reporting periods
+* Created an interactive dashboard with class KPIs, top-performing students, and at-risk groups
+* Added rule-based recommendations for declining performance patterns
 
----
-
-### 🔹 Adapt Habits
-
-A productivity app focused on flexible habit building
-
-* Helps users stay consistent even on low-motivation days
-* Focus on execution over perfection
-* Designed as a scalable product
-  👉 https://www.adapthabits.com/
+👉 https://github.com/arman0414/learning-analytics-system
 
 ---
 
-### 🔹 SQLite Database Management
+### 🔹 Real-Time Data Validation API
 
-Built production dashboards across global teams
+Production-style data-quality pipeline for validating and processing workforce CSV files.
 
-* Built a modular Python database system with separate DDL/DML engines, CSV-backed CRUD, and multi-table joins via a unified CLI.
-* Engineered SQL parsing with multi-line queries, file-backed persistence, and a SQLite mode for aggregate operations.
-* Added an automated test runner and reproducible SQL fixtures to validate CRUD and join behavior end-to-end, keeping regressions visible as the parsers and engines evolved.
+* Validates missing fields, duplicates, schema mismatches, invalid dates, data types, and out-of-range values
+* Separates accepted and rejected records into SQL tables with row-level error explanations
+* Tracks files through queued, processing, completed, and failed states
+* Includes pytest automation, Docker support, and GitHub Actions CI
 
-  👉 https://github.com/arman0414/SQLite-Database-Management-in-Python
-
----
-
-### 🔹 Real-Time Face Recognition System 
-
-Developed backend services using Flask & Python
-
-* Designed a modular face-recognition system using Python and OpenCV, separating data collection, recognition, and filtering for smoother scaling with a real-time 30 FPS interface.
-* Built a real-time data pipeline with automated processing, validation, and logging for stable system performance achieving approximately 85% accuracy on face embeddings.
-* Added reliable error checks, validation, and logging to maintain system stability across platforms, improving recognition accuracy by 40% and reducing data retrieval time by 55%.
-
-  👉 https://github.com/arman0414/Face_Recognition
+👉 https://github.com/arman0414/Real-time-data-validation
 
 ---
 
-## 📊 Impact
+### 🔹 AWS Real-Time Alerting & Monitoring System
 
-* Systems handling thousands of records daily
-* Reduced manual processes by up to 70%
-* Built production-ready solutions used across teams
+Python-based telemetry and monitoring pipeline using AWS services and SQLite.
+
+* Processes and validates sensor data before storage
+* Generates rolling summaries and threshold-based alerts
+* Integrates AWS SNS for notifications with retry handling
+* Includes an AWS Lambda handler for event-driven processing
+
+👉 https://github.com/arman0414/aws-alerting-monitoring
+
+---
+
+### 🔹 SQLite Database Management in Python
+
+Python database system focused on SQL operations, persistence, and testing.
+
+* Built modular DDL and DML engines with CSV-backed CRUD operations
+* Implemented multi-table joins and multi-line SQL parsing
+* Added SQLite support for aggregate operations
+* Created automated tests and reproducible SQL fixtures
+
+👉 https://github.com/arman0414/SQLite-Database-Management-in-Python
+
+---
+
+## 📊 Experience Highlights
+
+* Built 6+ Power BI dashboards supporting audit, compliance, staffing, revenue, and KPI reporting across 10+ operational sites
+* Helped reduce cross-site reporting inconsistencies by 70% through a unified reporting framework
+* Automated reporting workflows that reduced monthly reporting time by 60%
+* Built Python-based monitoring, validation, and data-processing solutions
 
 ---
 
 ## 🌱 Currently Exploring
 
-* System Design & Scalable Architectures
-* Kafka • Kubernetes • Distributed Systems
+* Advanced data analytics and visualization
+* Data engineering and scalable data pipelines
+* Statistical analysis and anomaly detection
+* Cloud-based analytics and automation
 
 ---
 
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/arman0414
-* LinkedIn: (https://www.linkedin.com/in/armanmalik/)
+* LinkedIn: https://www.linkedin.com/in/armanmalik/
 * Email: [armanmalikar@gmail.com](mailto:armanmalikar@gmail.com)
 
 ---
 
-⭐ Always open to collaborating on backend, data, or product-driven projects
+⭐ Open to opportunities and collaborations in **Data Analytics, Business Intelligence, Data Engineering, and Python-based data solutions**.
