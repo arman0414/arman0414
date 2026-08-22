@@ -100,8 +100,7 @@ Python database system focused on SQL operations, persistence, and testing.
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/arman0414
-* LinkedIn: https://www.linkedin.com/in/armanmalik/
-* Email: [armanmalikar@gmail.com](mailto:armanmalikar@gmail.com)
+* Email: [armanmalikar@gmail.com](mailto:armanmalikav@gmail.com)
 
 ---
 
