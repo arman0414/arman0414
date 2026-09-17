@@ -1,42 +1,45 @@
-# Hey, I’m Arman Malik 👋
+# Hey, I'm Arman Malik 👋
 
-Data Analytics & Business Intelligence professional building practical solutions with **Python, SQL, Power BI, and automation**.
+Software engineer working across **full-stack development, data engineering, and AI-powered applications** with Python, TypeScript, SQL, and AWS.
 
-I enjoy turning raw and multi-source data into reliable dashboards, analytics, and data workflows that help teams make better decisions.
+I build reliable systems end to end: APIs and front ends, data pipelines and dashboards, and the automation, testing, and cloud deployment that keep them running.
 
 ---
 
 ## 💡 What I Do
 
-* Build analytics dashboards and KPI reporting solutions
-* Develop Python and SQL data pipelines
-* Automate reporting and data-processing workflows
-* Create data-quality and validation frameworks
-* Build backend services for data-driven applications
+- Build full-stack web applications (React/Next.js front ends, Python and Node.js back ends)
+- Design and develop RESTful APIs and backend services
+- Develop Python and SQL data pipelines and data-quality frameworks
+- Integrate AI/LLM services into applications
+- Build analytics dashboards and automated KPI reporting
+- Deploy and operate applications on cloud infrastructure
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Programming & Data:** Python • SQL • pandas • NumPy • Jupyter Notebook  
-**Analytics & BI:** Power BI • DAX • Power Query • Looker Studio  
-**Databases:** PostgreSQL • SQLite • Microsoft SQL Server  
-**Tools:** Excel • Google Sheets • Flask • Docker • AWS • GitHub Actions
+**Languages:** Python · TypeScript · JavaScript (ES6+) · SQL
+**Frontend:** React · Next.js · Tailwind CSS · HTML5/CSS3
+**Backend:** FastAPI · Node.js · Flask · REST API design · SQLAlchemy
+**Databases:** PostgreSQL · Microsoft SQL Server · SQLite
+**Cloud & DevOps:** AWS (Lambda, SNS) · Docker · GitHub Actions CI/CD · Vercel · Railway
+**AI/LLM:** Anthropic Claude API · LLM-based classification and routing
+**Data & BI:** pandas · NumPy · Power BI · DAX · Power Query · Looker Studio · Jupyter
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Personalized Learning Analytics System
+### 🔹 AWS Real-Time Alerting & Monitoring System
 
-Analytics application for tracking student and class performance using Python, Flask, SQL, and Chart.js.
+Python-based telemetry and monitoring pipeline using AWS services.
 
-* Designed a relational data model connecting students, courses, and weekly assessment records
-* Built analytics for subject averages, performance trends, and changes across reporting periods
-* Created an interactive dashboard with class KPIs, top-performing students, and at-risk groups
-* Added rule-based recommendations for declining performance patterns
+- Event-driven processing with an AWS Lambda handler
+- AWS SNS notifications with retry handling
+- Validates sensor data before storage; rolling summaries and threshold-based alerts
 
-👉 https://github.com/arman0414/learning-analytics-system
+👉 https://github.com/arman0414/aws-alerting-monitoring
 
 ---
 
@@ -44,36 +47,48 @@ Analytics application for tracking student and class performance using Python, F
 
 Production-style data-quality pipeline for validating and processing workforce CSV files.
 
-* Validates missing fields, duplicates, schema mismatches, invalid dates, data types, and out-of-range values
-* Separates accepted and rejected records into SQL tables with row-level error explanations
-* Tracks files through queued, processing, completed, and failed states
-* Includes pytest automation, Docker support, and GitHub Actions CI
+- Validates missing fields, duplicates, schema mismatches, invalid dates, data types, and out-of-range values
+- Separates accepted and rejected records into SQL tables with row-level error explanations
+- Tracks files through queued, processing, completed, and failed states
+- pytest automation, Docker support, GitHub Actions CI
 
 👉 https://github.com/arman0414/Real-time-data-validation
 
 ---
 
-### 🔹 AWS Real-Time Alerting & Monitoring System
+### 🔹 Personalized Learning Analytics System
 
-Python-based telemetry and monitoring pipeline using AWS services and SQLite.
+Full-stack analytics application using Python, Flask, SQL, and Chart.js.
 
-* Processes and validates sensor data before storage
-* Generates rolling summaries and threshold-based alerts
-* Integrates AWS SNS for notifications with retry handling
-* Includes an AWS Lambda handler for event-driven processing
+- Relational data model connecting students, courses, and weekly assessment records
+- Analytics for subject averages, performance trends, and reporting-period changes
+- Interactive dashboard with class KPIs, top performers, and at-risk groups
+- Rule-based recommendations for declining performance patterns
 
-👉 https://github.com/arman0414/aws-alerting-monitoring
+👉 https://github.com/arman0414/learning-analytics-system
+
+---
+
+### 🔹 Face Recognition System
+
+Python computer-vision application for face detection and recognition.
+
+- Face data collection pipeline for building training datasets
+- Real-time face recognition from camera input
+- Face detection and image manipulation utilities
+
+👉 https://github.com/arman0414/Face_Recognition
 
 ---
 
 ### 🔹 SQLite Database Management in Python
 
-Python database system focused on SQL operations, persistence, and testing.
+Python database engine focused on SQL operations, persistence, and testing.
 
-* Built modular DDL and DML engines with CSV-backed CRUD operations
-* Implemented multi-table joins and multi-line SQL parsing
-* Added SQLite support for aggregate operations
-* Created automated tests and reproducible SQL fixtures
+- Modular DDL and DML engines with CSV-backed CRUD operations
+- Multi-table joins and multi-line SQL parsing
+- Aggregate operations with SQLite support
+- Automated tests and reproducible SQL fixtures
 
 👉 https://github.com/arman0414/SQLite-Database-Management-in-Python
 
@@ -81,27 +96,27 @@ Python database system focused on SQL operations, persistence, and testing.
 
 ## 📊 Experience Highlights
 
-* Built 6+ Power BI dashboards supporting audit, compliance, staffing, revenue, and KPI reporting across 10+ operational sites
-* Helped reduce cross-site reporting inconsistencies by 70% through a unified reporting framework
-* Automated reporting workflows that reduced monthly reporting time by 60%
-* Built Python-based monitoring, validation, and data-processing solutions
+- Built 6+ Power BI dashboards supporting audit, compliance, staffing, revenue, and KPI reporting across 10+ operational sites
+- Helped reduce cross-site reporting inconsistencies by 70% through a unified reporting framework
+- Automated reporting workflows that reduced monthly reporting time by 60%
+- Built Python-based monitoring, validation, and data-processing solutions
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Currently Building
 
-* Advanced data analytics and visualization
-* Data engineering and scalable data pipelines
-* Statistical analysis and anomaly detection
-* Cloud-based analytics and automation
+- Full-stack applications with Node.js + TypeScript back ends
+- Cloud-native deployments on AWS (Lambda, EC2, containerized services)
+- LLM-integrated application features
+- Scalable data pipelines and data engineering workflows
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/arman0414
-* Email: [armanmalikav@gmail.com](mailto:armanmalikav@gmail.com)
+- GitHub: https://github.com/arman0414
+- Email: armanmalikav@gmail.com
 
 ---
 
-⭐ Open to opportunities and collaborations in **Data Analytics, Business Intelligence, Data Engineering, and Python-based data solutions**.
+⭐ Open to opportunities in **full-stack engineering, AI application development, data engineering, and Python-based systems**.
